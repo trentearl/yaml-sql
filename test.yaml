@@ -1,0 +1,9 @@
+-
+  route: /api/user/test
+  sql: |
+       select * from trent_table
+
+-
+  route: /testbase
+  sql: |
+       select sum(id) as cool from trent_table 
