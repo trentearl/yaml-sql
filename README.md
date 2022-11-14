@@ -6,7 +6,7 @@ This projects is a web application that maps http get requests to sql commands v
 ##
 
 To run in localdev:
-
+- `npm install`
 - `docker compose up # starts mysql`
 - `npm run dev`
 
