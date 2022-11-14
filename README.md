@@ -16,14 +16,14 @@ this opens http://localhost:8888
 
 To run in other environments
 
-node index [path to the yaml] [port number]
+`node index [path to the yaml] [port number]`
 
 consfigure DB connection via environmental variables:
 
-- `MYSQL_HOST'
-- `MYSQL_USER'
-- `MYSQL_DATABASE'
-- `MYSQL_PASSWORD'
+- `MYSQL_HOST`
+- `MYSQL_USER`
+- `MYSQL_DATABASE`
+- `MYSQL_PASSWORD`
 
 ----
 
