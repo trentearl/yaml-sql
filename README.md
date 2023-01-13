@@ -1,6 +1,6 @@
 # YAML-SQL
 
-This projects is a web application that maps http get requests to sql commands via a yaml file
+This project is a web application that maps http get requests to sql commands via a yaml file
 
 
 ##
